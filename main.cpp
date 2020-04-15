@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include<GL\glut.h>
+#include<GL/glut.h>
 #define SORT_NO 4	// Number of sorting algorithms
 #define MAX 50		// Number of values in the array
 #define SPEED 700	// Speed of sorting, must be greater than MAX always
